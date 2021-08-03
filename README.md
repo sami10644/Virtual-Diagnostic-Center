@@ -26,7 +26,6 @@ This webapp was developed using Flask Web Framework and was deployed on Heroku s
 
 ## NOTE
 
-==> You can access the website live at: https://kvg-disease-predictor.herokuapp.com <br>
 ==> Python version 3.6.8 was used for the whole project.<br>
 
 ## Steps to run this application in your system
@@ -51,16 +50,4 @@ pip install -r requirements.txt
 python app.py
 ```
 
-## Dataset Links
 
-All the datasets were used from kaggle.
-
-- [Diabetes Dataset](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
-- [Breast Cancer Dataset](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
-- [Heart Disease Dataset](https://www.kaggle.com/ronitf/heart-disease-uci)
-- [Kidney Disease Dataset](https://www.kaggle.com/mansoordaku/ckdisease)
-- [Liver Disease Dataset](https://www.kaggle.com/uciml/indian-liver-patient-records)
-- [Malaria Dataset](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria)
-- [Pneumonia Dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
-
-## Links for Python Notebooks used for model creation
